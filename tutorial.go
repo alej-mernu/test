@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main(a trin) {
+func main() {
 	fmt.Println("hello")
 }
